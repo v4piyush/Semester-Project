@@ -1,0 +1,95 @@
+body {
+    background-image: url("Img/DD2.jpg");
+    color: #cccccc;
+   }
+       nav{
+           background-color: rgba(89, 109, 224, 0.349);
+           
+       }   
+       
+       .CarModels
+       {
+            display:inline-flex; 
+           background-color:rgba(247, 242, 242, 0.473)
+   
+       }
+           #b1 
+           {
+         
+               width: 19%;
+         padding: 2%;
+         background-color:rgba(250, 177, 177, 0.741);
+         margin-right: 2%;
+         border-color: rgb(180, 132, 132);
+         border-style: groove;
+         }
+         #b2
+             {
+         
+         width: 19%;
+         padding: 2%;
+         background-color:rgb(250, 177, 177);
+         margin-right: 2%;
+         border-color: rgb(180, 132, 132);
+         border-style: groove;
+         }
+         #b3
+             {
+         
+         width: 19%;
+         padding: 2%;
+         background-color:rgb(250, 177, 177);
+         margin-right: 2%;
+         border-color: rgb(180, 132, 132);
+         border-style: groove;
+         }
+         #b4
+             {
+         
+         width: 19%;
+         padding: 2%;
+         background-color:rgb(250, 177, 177);
+         margin-right: 2%;
+         border-color: rgb(180, 132, 132);
+         border-style: groove;
+         }
+         #b5
+             {
+         
+         width: 19%;
+         padding: 2%;
+         background-color:rgb(250, 177, 177);
+         margin-right: 2%;
+         border-color: rgb(180, 132, 132);
+         border-style: groove;
+         }
+         #b6
+             {
+         
+         width: 19%;
+         padding: 2%;
+         background-color:rgb(250, 177, 177);
+         margin-right: 2%;
+         border-color: rgb(180, 132, 132);
+         border-style: groove;
+         }
+         #b7
+        {
+         
+         width: 19%;
+         padding: 2%;
+         background-color:rgb(250, 177, 177);
+         margin-right: 2%;
+         border-color: rgb(180, 132, 132);
+         border-style: groove;
+         }
+         #b8
+             {
+         
+         width: 19%;
+         padding: 2%;
+         background-color:rgb(250, 177, 177);
+         margin-right: 2%;
+         border-color: rgb(180, 132, 132);
+         border-style: groove;
+         }
