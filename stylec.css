@@ -1,0 +1,48 @@
+
+  body {
+    background-image: url("Img/DD2.jpg");
+    background-color: #cccccc;
+    background-repeat: no-repeat;
+    background-size: 50% 100vh;
+    background-attachment: fixed;
+    background-size: cover ;
+    }
+
+    .about-section {
+        padding: 50px;
+        text-align: center;
+        background-color: #474e5d;
+        color: white;
+      }
+      
+      .container {
+        padding: 0 16px;
+      }
+      
+      .container::after, .row::after {
+        content: "";
+        clear: both;
+        display: table;
+      }
+      
+      .title {
+        color: grey;
+      }
+
+    nav{
+        background-color: rgba(89, 109, 224, 0.349);
+        
+    }   
+    #H1
+    {
+     background-color: rgba(11, 107, 197, 0.171);
+  }
+    #intro
+    {
+        background-color: rgba(87, 0, 201, 0.829);   
+
+    }
+    nav{
+      background-color: rgba(89, 109, 224, 0.349);
+      
+  }   
